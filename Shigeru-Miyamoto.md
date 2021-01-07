@@ -1,5 +1,5 @@
 ---
-author: p2019193
+author: P2019193
 title: Shigeru-Miyamoto
 image_url: /images/shigeru-miyamoto.jpg
 caption: 'Από τους πρωτοπόρους της βιομηχανίας βιντεοπαιχνιδιών, συχνά αναφερόμενος ως ο πατέρας του σύγχρονου βιντεοπαιχνιδιού. Ως πρώτος σχεδιαστής της Nintendo, δημιούργησε μεγάλες εμπορικές επιτυχίες(Super Mario, Donkey Kong,The Legend of Zelda)'
